@@ -12,7 +12,7 @@ int main(void)
 	if (yy)
 		printf("¿±≥‚¿‘¥œ¥Ÿ.\n");
 	else
-		printf("¿±≥‚¿Ã ≥≥¥œ¥Ÿ.\n");
+		printf("¿±≥‚¿Ã æ∆¥’¥œ¥Ÿ.\n");
 	return 0;
 }
 
