@@ -15,6 +15,6 @@ int main(void)
 		val +=1;
 
 	}
-	printf("sum = %d\n", sum);
+	printf("sum = %d\n", sum); 
 	return 0;
 }
