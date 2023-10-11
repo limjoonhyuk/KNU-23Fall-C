@@ -25,7 +25,7 @@ int main(void)
 
         percent = count / 100;
 
-        printf("%d%%ÁøÇà.. ¿øÁÖÀ² : %lf ", percent, (circle / count) * 4);
+        printf("%d 진행 원주율 %lf ", percent, (circle / count) * 4);
         for (int i = 0; i < percent; i += 5)
         {
             printf("=");
